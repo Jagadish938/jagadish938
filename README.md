@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/Jagadish938/jagadish938/blob/main/Keep%20moving%20the%20best%20is%20yet%20to%20come.png)
 <h1 align="center">Hi 👋, I'm Jagadish REDDY</h1>
-<h3 align="center">I AM A COMPUTER Engineer</h3>
+<h3 align="center">I AM A COMPUTER ENGINEER</h3>
 
 <img align='right' alt=coding  width='400' src="https://user-images.githubusercontent.com/89268342/215021027-030c2f00-5c81-4954-a2f5-e346f4f8663f.png">
 
