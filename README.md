@@ -29,7 +29,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,cpp,cs,html,css,js,java,linux,mysql,nodejs,python,react,reactnative,tailwind,unrealengine" />
+  <img src="https://skillicons.dev/icons?i=aws,cpp,html,css,js,java,linux,mysql,nodejs,python,react,reactnative,unrealengine" />
 </p>
 
 ---
